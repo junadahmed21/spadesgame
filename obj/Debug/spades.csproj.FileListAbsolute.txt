@@ -1,0 +1,2 @@
+C:\Users\Programming10\Desktop\new folder\spades\obj\Debug\spades.csprojAssemblyReference.cache
+C:\Users\Programming10\Desktop\new folder\spades\obj\Debug\spades.csproj.CoreCompileInputs.cache
